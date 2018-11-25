@@ -2,11 +2,11 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using CoreSignalRDEmo.Hubs;
+using CoreSignalRDemo.Hubs;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.SignalR;
 
-namespace CoreSignalRDEmo.Controllers
+namespace CoreSignalRDemo.Controllers
 {
     
 

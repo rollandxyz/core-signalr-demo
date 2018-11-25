@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/CoreSignalRDEmo.csproj"
+                "${workspaceFolder}/CoreSignalRDemo.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

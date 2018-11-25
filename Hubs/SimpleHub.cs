@@ -1,7 +1,7 @@
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.SignalR;
 
-namespace CoreSignalRDEmo.Hubs
+namespace CoreSignalRDemo.Hubs
 {
     public class HubMessage {
         public string message {

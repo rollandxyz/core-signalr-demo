@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.SignalR;
 
-namespace CoreSignalRDEmo.Hubs {
+namespace CoreSignalRDemo.Hubs {
     /// <summary>
     /// Defines the events associated with the Hub.
     /// </summary>
