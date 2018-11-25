@@ -1,1 +1,1 @@
-# core-signalr-demo
+# CoreSignalRDEmo
